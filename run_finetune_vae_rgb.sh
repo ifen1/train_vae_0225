@@ -21,7 +21,7 @@ python code/VideoX-Fun/scripts/wan2.1_fun/code/finetune_vae_rgb.py \
     --height 128 \
     --width 256 \
     --batch_size 1 \
-    --max_frames 5 \
+    --max_frames 41 \
     --lr 1e-5 \
     --max_steps 5000 \
     --warmup_steps 200 \
